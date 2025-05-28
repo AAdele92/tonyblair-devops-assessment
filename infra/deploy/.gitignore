@@ -1,0 +1,13 @@
+terraform
+*.terraform
+*.terraform/
+*.tfstate
+*.tfstate.*
+*.terraform.lock.hcl
+*.out
+
+
+#MacOS
+*.DS_Store
+.AppleDouble
+.LSOverride
